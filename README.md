@@ -2,7 +2,7 @@
 
 Language for propositional language
 
-In this homework you are to implement lexer and parser for a simple language.
+Implement lexer and parser for a simple language.
 
 Token definitions:
 ID = [A-Z]+
@@ -28,5 +28,3 @@ Your implementation should receive a file, if the input file is a valid program,
 
 Instructions:
 -	Use Python 2.7 for implementation
--	Deadline: Feb 11 at 9 AM
-
